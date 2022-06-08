@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arbab-Iftikhar
 - 👀 I’m interested to working in new technologies and love to learn new things.  
-- 🌱 I’m currently learning Angular + java springboot
+- 🌱 I’m currently working in Angular + java springboot
 - 📫 Email : arbabraja88@gmail.com
 - Linkedin : https://www.linkedin.com/in/arbab-iftikhar-4231001bb/
 
